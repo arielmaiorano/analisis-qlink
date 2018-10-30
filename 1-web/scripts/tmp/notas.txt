@@ -1,0 +1,13 @@
+
+cuando el usuario presiona el botón para crear qlink
+
+t = time en seg (unix epoch time, asumido el mismo en cliente y servior)
+m = milisegundos en cliente (0-999)
+u = microsegundos (0-99999)
+semilla = 1000x + m + x + u
+semilla = 1001x + m + u
+
+semilla - m - u = 1001x
+(semilla - m - u) / 1001 = x
+
+semilla/1001 - m/1001 - u/1001 = x

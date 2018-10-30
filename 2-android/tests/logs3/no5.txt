@@ -1,0 +1,80 @@
+01-11 02:07:56.422: D/DEBUGX(927): generateRandomString(): nextInts: ,54,49,60,18,20,14,40,27,36,23,45,5,40,8,9,10,30,12,1,58,46,51,40,29,45,56,3,58,2,19,5,37
+01-11 02:07:56.422: D/DEBUGX(927): generateRandomString(): seeded: 123
+01-11 02:07:56.422: D/DEBUGX(927): generateRandomString(): randomString: SNYikeErAnJ5E89auc1WKPEtJU3W2j5B
+01-11 02:07:56.422: D/DEBUGX(927): 1. generateRandomString(32, '123'): SNYikeErAnJ5E89auc1WKPEtJU3W2j5B
+01-11 02:07:56.422: D/DEBUGX(927): generateRandomString(): nextInts: ,54,49,60,18,20,14,40,27,36,23,45,5,40,8,9,10,30,12,1,58,46,51,40,29,45,56,3,58,2,19,5,37
+01-11 02:07:56.422: D/DEBUGX(927): generateRandomString(): seeded: 123
+01-11 02:07:56.422: D/DEBUGX(927): generateRandomString(): randomString: SNYikeErAnJ5E89auc1WKPEtJU3W2j5B
+01-11 02:07:56.422: D/DEBUGX(927): 2. generateRandomString(32, '123'): SNYikeErAnJ5E89auc1WKPEtJU3W2j5B
+01-11 02:08:00.418: D/DEBUGX(927): onUserInteraction(): curDate: 1515636480423
+01-11 02:08:00.418: D/DEBUGX(927): onUserInteraction(): password (pre): 
+01-11 02:08:00.418: D/DEBUGX(927): generateRandomString(): nextInts: ,31,25,54,52,60,43,49,18,3,30,30,33,53,14,39,25,52,36,38,46,35,26,1,43,32,34,23,41,49,55,40,17
+01-11 02:08:00.418: D/DEBUGX(927): generateRandomString(): seeded: 1515636480423
+01-11 02:08:00.418: D/DEBUGX(927): generateRandomString(): randomString: vpSQYHNi3uuxReDpQACKzq1HwynFNTEh
+01-11 02:08:00.418: D/DEBUGX(927): onUserInteraction(): password (post1): vpSQYHNi3uuxReDpQACKzq1HwynFNTEh
+01-11 02:08:00.418: D/DEBUGX(927): onUserInteraction(): password (post2): dnBTUVlITmkzdXV4UmVEcFFBQ0t6cTFI
+01-11 02:08:00.882: D/DEBUGX(927): onUserInteraction(): curDate: 1515636480884
+01-11 02:08:00.882: D/DEBUGX(927): onUserInteraction(): password (pre): dnBTUVlITmkzdXV4UmVEcFFBQ0t6cTFI
+01-11 02:08:00.882: D/DEBUGX(927): generateRandomString(): nextInts: ,27,46,26,16,43,56,31,6,31,48,46,21,20,47,16,16,23,35,41,46,60,22,18,19,1,37,0,15,29,25,23,45
+01-11 02:08:00.882: D/DEBUGX(927): generateRandomString(): seeded: 1515636480884dnBTUVlITmkzdXV4UmVEcFFBQ0t6cTFI
+01-11 02:08:00.882: D/DEBUGX(927): generateRandomString(): randomString: rKqgHUv6vMKlkLggnzFKYmij1B0ftpnJ
+01-11 02:08:00.882: D/DEBUGX(927): onUserInteraction(): password (post1): rKqgHUv6vMKlkLggnzFKYmij1B0ftpnJ
+01-11 02:08:00.882: D/DEBUGX(927): onUserInteraction(): password (post2): cktxZ0hVdjZ2TUtsa0xnZ256RktZbWlq
+01-11 02:08:00.882: D/DEBUGX(927): afterTextChanged(): curDate: 1515636480886
+01-11 02:08:00.886: D/DEBUGX(927): afterTextChanged(): password (pre): cktxZ0hVdjZ2TUtsa0xnZ256RktZbWlq
+01-11 02:08:00.886: D/DEBUGX(927): generateRandomString(): nextInts: ,27,10,29,45,14,60,43,24,6,58,29,7,25,17,56,13,40,8,10,41,13,45,48,19,32,16,33,22,23,35,31,3
+01-11 02:08:00.886: D/DEBUGX(927): generateRandomString(): seeded: 1515636480886cktxZ0hVdjZ2TUtsa0xnZ256RktZbWlq
+01-11 02:08:00.886: D/DEBUGX(927): generateRandomString(): randomString: ratJeYHo6Wt7phUdE8aFdJMjwgxmnzv3
+01-11 02:08:00.886: D/DEBUGX(927): afterTextChanged(): password (post1): ratJeYHo6Wt7phUdE8aFdJMjwgxmnzv3
+01-11 02:08:00.886: D/DEBUGX(927): afterTextChanged(): password (post2): cmF0SmVZSG82V3Q3cGhVZEU4YUZkSk1q
+01-11 02:08:01.034: D/DEBUGX(927): onUserInteraction(): curDate: 1515636481036
+01-11 02:08:01.034: D/DEBUGX(927): onUserInteraction(): password (pre): cmF0SmVZSG82V3Q3cGhVZEU4YUZkSk1q
+01-11 02:08:01.034: D/DEBUGX(927): generateRandomString(): nextInts: ,29,54,24,51,6,34,51,55,6,56,54,9,3,34,48,3,45,56,29,13,57,49,42,58,35,11,33,47,43,45,6,28
+01-11 02:08:01.034: D/DEBUGX(927): generateRandomString(): seeded: 1515636481036cmF0SmVZSG82V3Q3cGhVZEU4YUZkSk1q
+01-11 02:08:01.034: D/DEBUGX(927): generateRandomString(): randomString: tSoP6yPT6US93yM3JUtdVNGWzbxLHJ6s
+01-11 02:08:01.034: D/DEBUGX(927): onUserInteraction(): password (post1): tSoP6yPT6US93yM3JUtdVNGWzbxLHJ6s
+01-11 02:08:01.034: D/DEBUGX(927): onUserInteraction(): password (post2): dFNvUDZ5UFQ2VVM5M3lNM0pVdGRWTkdX
+01-11 02:08:01.190: D/DEBUGX(927): onUserInteraction(): curDate: 1515636481195
+01-11 02:08:01.190: D/DEBUGX(927): onUserInteraction(): password (pre): dFNvUDZ5UFQ2VVM5M3lNM0pVdGRWTkdX
+01-11 02:08:01.190: D/DEBUGX(927): generateRandomString(): nextInts: ,24,10,42,43,23,31,60,53,33,38,25,41,33,34,24,47,5,58,43,6,18,41,0,57,44,10,1,24,52,6,56,15
+01-11 02:08:01.190: D/DEBUGX(927): generateRandomString(): seeded: 1515636481195dFNvUDZ5UFQ2VVM5M3lNM0pVdGRWTkdX
+01-11 02:08:01.190: D/DEBUGX(927): generateRandomString(): randomString: oaGHnvYRxCpFxyoL5WH6iF0VIa1oQ6Uf
+01-11 02:08:01.190: D/DEBUGX(927): onUserInteraction(): password (post1): oaGHnvYRxCpFxyoL5WH6iF0VIa1oQ6Uf
+01-11 02:08:01.190: D/DEBUGX(927): onUserInteraction(): password (post2): b2FHSG52WVJ4Q3BGeHlvTDVXSDZpRjBW
+01-11 02:08:01.190: D/DEBUGX(927): afterTextChanged(): curDate: 1515636481196
+01-11 02:08:01.190: D/DEBUGX(927): afterTextChanged(): password (pre): b2FHSG52WVJ4Q3BGeHlvTDVXSDZpRjBW
+01-11 02:08:01.190: D/DEBUGX(927): generateRandomString(): nextInts: ,40,14,14,17,37,46,30,29,38,46,42,35,9,53,7,24,51,4,25,26,29,35,4,58,32,5,35,50,22,11,14,32
+01-11 02:08:01.190: D/DEBUGX(927): generateRandomString(): seeded: 1515636481196b2FHSG52WVJ4Q3BGeHlvTDVXSDZpRjBW
+01-11 02:08:01.190: D/DEBUGX(927): generateRandomString(): randomString: EeehBKutCKGz9R7oP4pqtz4Ww5zOmbew
+01-11 02:08:01.190: D/DEBUGX(927): afterTextChanged(): password (post1): EeehBKutCKGz9R7oP4pqtz4Ww5zOmbew
+01-11 02:08:01.190: D/DEBUGX(927): afterTextChanged(): password (post2): RWVlaEJLdXRDS0d6OVI3b1A0cHF0ejRX
+01-11 02:08:01.306: D/DEBUGX(927): onUserInteraction(): curDate: 1515636481310
+01-11 02:08:01.306: D/DEBUGX(927): onUserInteraction(): password (pre): RWVlaEJLdXRDS0d6OVI3b1A0cHF0ejRX
+01-11 02:08:01.306: D/DEBUGX(927): generateRandomString(): nextInts: ,32,30,45,60,10,0,4,35,24,12,24,15,3,47,10,33,53,25,31,41,58,29,13,5,30,6,47,10,28,57,28,35
+01-11 02:08:01.306: D/DEBUGX(927): generateRandomString(): seeded: 1515636481310RWVlaEJLdXRDS0d6OVI3b1A0cHF0ejRX
+01-11 02:08:01.306: D/DEBUGX(927): generateRandomString(): randomString: wuJYa04zocof3LaxRpvFWtd5u6LasVsz
+01-11 02:08:01.306: D/DEBUGX(927): onUserInteraction(): password (post1): wuJYa04zocof3LaxRpvFWtd5u6LasVsz
+01-11 02:08:01.306: D/DEBUGX(927): onUserInteraction(): password (post2): d3VKWWEwNHpvY29mM0xheFJwdkZXdGQ1
+01-11 02:08:01.754: D/DEBUGX(927): onUserInteraction(): curDate: 1515636481758
+01-11 02:08:01.754: D/DEBUGX(927): onUserInteraction(): password (pre): d3VKWWEwNHpvY29mM0xheFJwdkZXdGQ1
+01-11 02:08:01.754: D/DEBUGX(927): generateRandomString(): nextInts: ,14,35,11,7,38,29,17,19,56,51,58,22,6,31,25,1,29,58,16,26,19,15,50,49,25,45,29,60,8,59,40,57
+01-11 02:08:01.754: D/DEBUGX(927): generateRandomString(): seeded: 1515636481758d3VKWWEwNHpvY29mM0xheFJwdkZXdGQ1
+01-11 02:08:01.754: D/DEBUGX(927): generateRandomString(): randomString: ezb7CthjUPWm6vp1tWgqjfONpJtY8XEV
+01-11 02:08:01.754: D/DEBUGX(927): onUserInteraction(): password (post1): ezb7CthjUPWm6vp1tWgqjfONpJtY8XEV
+01-11 02:08:01.754: D/DEBUGX(927): onUserInteraction(): password (post2): ZXpiN0N0aGpVUFdtNnZwMXRXZ3FqZk9O
+01-11 02:08:03.294: D/DEBUGX(927): generateRandomString(): nextInts: ,6,34,18,51,13,24,58,48,21,58,18,52,59,0,22,2,11,3,58,8,52,46,18,59,12,10,41,38,40,17,26,35
+01-11 02:08:03.294: D/DEBUGX(927): generateRandomString(): seeded: 1515636483301ZXpiN0N0aGpVUFdtNnZwMXRXZ3FqZk9O
+01-11 02:08:03.302: D/DEBUGX(927): generateRandomString(): randomString: 6yiPdoWMlWiQX0m2b3W8QKiXcaFCEhqz
+01-11 02:08:03.326: D/DEBUGX(927): createQlinkSt2(): rnd: 18
+01-11 02:08:03.326: D/DEBUGX(927): createQlinkSt2(): curDate: 1515636483301
+01-11 02:08:03.326: D/DEBUGX(927): createQlinkSt2(): password (pre): 6yiPdoWMlWiQX0m2b3W8QKiXcaFCEhqz
+01-11 02:08:03.326: D/DEBUGX(927): createQlinkSt2(): fpassword (post): NnlpUGRvV01sV2lRWD
+01-11 02:08:03.326: D/DEBUGX(927): createQlinkSt2(): sanity (post): %%A%%no%%C%%
+01-11 02:08:03.414: D/DEBUGX(927): createQlinkSt2(): nameValuePairs: [msg={"data":"i2VoBQeyZY97BC6363Zluw==\n","iter":100,"decom":"false","iv":"94068ec4c6ad76845468484cc38ab0dc","salt":"1b10e18e"}, from=app_android1.73, imprint=false, files=[], namesFiles=[], randomHash=1515636483420, x_token=4685b88c74e40427b215115383c22854ee5f6eac5400b26ca8067ed6a47e708f, n=0, lang=en]
+01-11 02:08:04.394: D/DEBUGX(927): afterTextChanged(): curDate: 1515636484398
+01-11 02:08:04.394: D/DEBUGX(927): afterTextChanged(): password (pre): 6yiPdoWMlWiQX0m2b3W8QKiXcaFCEhqz
+01-11 02:08:04.394: D/DEBUGX(927): generateRandomString(): nextInts: ,34,54,30,5,51,55,4,3,7,36,12,20,4,17,35,53,54,60,24,18,53,59,15,58,8,28,0,32,9,42,41,56
+01-11 02:08:04.394: D/DEBUGX(927): generateRandomString(): seeded: 15156364843986yiPdoWMlWiQX0m2b3W8QKiXcaFCEhqz
+01-11 02:08:04.394: D/DEBUGX(927): generateRandomString(): randomString: ySu5PT437Ack4hzRSYoiRXfW8s0w9GFU
+01-11 02:08:04.394: D/DEBUGX(927): afterTextChanged(): password (post1): ySu5PT437Ack4hzRSYoiRXfW8s0w9GFU
+01-11 02:08:04.394: D/DEBUGX(927): afterTextChanged(): password (post2): eVN1NVBUNDM3QWNrNGh6UlNZb2lSWGZX
